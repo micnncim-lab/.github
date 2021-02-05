@@ -1,0 +1,5 @@
+{
+    "name": "Size Workflow",
+    "description": "A workflow template to add a label indicating a PR size",
+    "iconName": "workflow"
+}
